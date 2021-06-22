@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wikomamisa
+- 👀 I’m interested in Video game development
+- 🌱 I’m currently learning Video game development
